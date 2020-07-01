@@ -1,2 +1,2 @@
-# Basic_php
+# Basic_PHP
 PHP basic concept code
